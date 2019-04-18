@@ -1,12 +1,5 @@
 # Simple Drawing Sharing Sample
 
-<img src="Images/Sample01.png" width="75%">
-<img src="Images/Sample02.png" width="75%">
-
-## Tested Environment
-- Unity 2018.3.8f1
-- Windows 10 Pro
-
 ## Third party assets
 You need to import the following assets from Unity Asset Store.
 
