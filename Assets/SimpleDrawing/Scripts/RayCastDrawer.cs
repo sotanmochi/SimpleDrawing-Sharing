@@ -72,12 +72,12 @@ namespace SimpleDrawing
                 }
                 else
                 {
-                    previousTexCoord = defaultTexCoord;
+                    currentTexCoord = defaultTexCoord;
                 }
             }
             else if (!RayCastEnabled)
             {
-                previousTexCoord = defaultTexCoord;
+                currentTexCoord = defaultTexCoord;
             }
         }
 

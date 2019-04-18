@@ -122,13 +122,13 @@ namespace SimpleDrawing.Sharing
                     else
                     {
                         targetCanvasId = -1;
-                        previousTexCoord = defaultTexCoord;
+                        currentTexCoord = defaultTexCoord;
                     }
                 }
                 else
                 {
                     targetCanvasId = -1;
-                    previousTexCoord = defaultTexCoord;
+                    currentTexCoord = defaultTexCoord;
                 }
             }
         }
