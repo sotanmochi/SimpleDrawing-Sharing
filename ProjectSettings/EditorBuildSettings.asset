@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SimpleDrawing-Sharing/SimpleDrawing-Sharing.unity
+    guid: 976027f8415b096489b22d2b34e15b65
   m_configObjects: {}

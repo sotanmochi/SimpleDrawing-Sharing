@@ -16,6 +16,8 @@ Assets/*
 # ============================================================== #
 !Assets/SimpleDrawing/
 !Assets/SimpleDrawing.meta
+!Assets/SimpleDrawing-Sharing/
+!Assets/SimpleDrawing-Sharing.meta
 
 !Assets/StreamingAssets/
 !Assets/StreamingAssets.meta
