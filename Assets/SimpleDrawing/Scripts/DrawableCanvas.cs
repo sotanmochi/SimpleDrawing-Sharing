@@ -97,12 +97,8 @@ namespace SimpleDrawing
 
         public void ColorBetween(Vector2 startPixelPos, Vector2 endPixelPos, int thickness, Color color)
         {
-            int width = drawableTexture.width;
-            int height = drawableTexture.height;
-
             // Get the distance from start to end
             float distance = Vector2.Distance(startPixelPos, endPixelPos);
-            Vector2 direction = (startPixelPos - endPixelPos).normalized;
 
             // Calculate how many times we should interpolate 
             // between start point and end point based on 
