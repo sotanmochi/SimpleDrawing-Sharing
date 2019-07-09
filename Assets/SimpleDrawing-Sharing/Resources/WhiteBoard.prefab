@@ -107,7 +107,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00b52e532f81e4d4583c19b17931084d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ResetCanvasOnPlay: 1
   ResetColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &3007688451869998001
 MonoBehaviour:
